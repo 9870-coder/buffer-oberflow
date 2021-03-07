@@ -1,0 +1,3 @@
+print('hack with me')
+a=str(input("type a text to do buffer overflow : "))
+print(a*301)
